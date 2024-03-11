@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LetrasBlog.Client.props" />
+</Project>

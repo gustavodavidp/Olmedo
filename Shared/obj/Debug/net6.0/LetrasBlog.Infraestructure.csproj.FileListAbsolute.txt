@@ -1,0 +1,37 @@
+D:\source\repos\LetrasBlog\Shared\bin\Debug\net6.0\LetrasBlog.Infraestructure.deps.json
+D:\source\repos\LetrasBlog\Shared\bin\Debug\net6.0\LetrasBlog.Infraestructure.dll
+D:\source\repos\LetrasBlog\Shared\bin\Debug\net6.0\LetrasBlog.Infraestructure.pdb
+D:\source\repos\LetrasBlog\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.csproj.AssemblyReference.cache
+D:\source\repos\LetrasBlog\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\LetrasBlog\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.AssemblyInfoInputs.cache
+D:\source\repos\LetrasBlog\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.AssemblyInfo.cs
+D:\source\repos\LetrasBlog\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.csproj.CoreCompileInputs.cache
+D:\source\repos\LetrasBlog\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.dll
+D:\source\repos\LetrasBlog\Shared\obj\Debug\net6.0\refint\LetrasBlog.Infraestructure.dll
+D:\source\repos\LetrasBlog\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.pdb
+D:\source\repos\LetrasBlog\Shared\obj\Debug\net6.0\ref\LetrasBlog.Infraestructure.dll
+D:\source\repos\BDDistribuidas\Shared\bin\Debug\net6.0\LetrasBlog.Infraestructure.deps.json
+D:\source\repos\BDDistribuidas\Shared\bin\Debug\net6.0\LetrasBlog.Infraestructure.dll
+D:\source\repos\BDDistribuidas\Shared\bin\Debug\net6.0\LetrasBlog.Infraestructure.pdb
+D:\source\repos\BDDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.csproj.AssemblyReference.cache
+D:\source\repos\BDDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\BDDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.AssemblyInfoInputs.cache
+D:\source\repos\BDDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.AssemblyInfo.cs
+D:\source\repos\BDDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.csproj.CoreCompileInputs.cache
+D:\source\repos\BDDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.dll
+D:\source\repos\BDDistribuidas\Shared\obj\Debug\net6.0\refint\LetrasBlog.Infraestructure.dll
+D:\source\repos\BDDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.pdb
+D:\source\repos\BDDistribuidas\Shared\obj\Debug\net6.0\ref\LetrasBlog.Infraestructure.dll
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.AssemblyInfo.cs
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.sourcelink.json
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.dll
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\obj\Debug\net6.0\refint\LetrasBlog.Infraestructure.dll
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\obj\Debug\net6.0\LetrasBlog.Infraestructure.pdb
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\bin\Debug\net6.0\LetrasBlog.Infraestructure.deps.json
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\bin\Debug\net6.0\LetrasBlog.Infraestructure.dll
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\bin\Debug\net6.0\LetrasBlog.Infraestructure.pdb
+C:\Users\Gustavo Polanco\Source\Repos\ProyectoBdDistribuidas\Shared\obj\Debug\net6.0\ref\LetrasBlog.Infraestructure.dll

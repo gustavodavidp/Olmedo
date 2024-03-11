@@ -1,0 +1,21 @@
+﻿using LetrasBlog.Client.Repositories;
+using LetrasBlog.Infraestructure.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace LetrasBlog.Client.Repositories
+{
+    public interface IRepository
+    {
+        Task<Articles.response> GetArticles();
+        Task<CatFacts.response> GetCatsFacts();
+        //Task<Books.response> InsertBooks();
+        Task<Books.response> InsertRespuesta();
+        Task<Books.response> GetBooks();
+        Task<Books.response> DeleteBooks(int id);
+        Task<Books.response> UpdateBooks(Books.BooksDetail book);
+
+    }
+}
